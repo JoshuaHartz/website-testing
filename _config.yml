@@ -1,0 +1,5 @@
+# _config.yml
+
+title: website-testing
+description: testing githubs pages functionalites
+theme: jekyll-theme-minimal
